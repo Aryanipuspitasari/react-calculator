@@ -27,7 +27,7 @@ const ButtonContainer = styled.div`
 `;
 
 const Button = styled.button`
-  width:  ${props => props.$clear? '100%' : '48px'};;
+  width:  ${props => props.$clear? '92%' : '48px'};;
   height: 48px;
   margin: 5px;
   font-size: 18px;
